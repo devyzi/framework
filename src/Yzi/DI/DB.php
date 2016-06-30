@@ -9,8 +9,9 @@ namespace Yzi\DI;
 
 
 
-use Yzi\Config\Addresses;
-use Yzi\DB\Conn;
+
+use DEVYZI\Config\Addresses;
+use DEVYZI\DB\Conn;
 
 class DB
 {

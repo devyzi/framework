@@ -7,10 +7,7 @@
 
 namespace Yzi\Controller;
 
-use Yzi\Config\Addresses;
-use Yzi\Config\ExtensionsSupport;
-use Yzi\Config\Prefixes;
-use Yzi\View\Blade;
+
 
 abstract class Action extends Blade
 {

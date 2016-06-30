@@ -7,9 +7,6 @@
 
 namespace Yzi\Init;
 
-
-
-
 use Yzi\Config\Addresses;
 
 abstract class Bootstrap

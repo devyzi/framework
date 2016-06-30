@@ -4,7 +4,7 @@ Framework PHP sem fins lucrativos.
 ## Instalação
 Para utilizar o Devyzi Framework execute o seguinte comando no composer:
 ```
-composer create-project devyzi/devyzi pasta-do-projeto
+composer create-project devyzi/devyzi nome-do-projeto
 ```
 altere o 'pasta-do-projeto' para o nome do seu novo projeto.
 

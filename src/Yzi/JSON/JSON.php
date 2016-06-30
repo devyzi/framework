@@ -14,9 +14,4 @@ abstract class JSON
     {
         return json_encode($array);
     }
-
-    public static function decode($array)
-    {
-        return json_decode($array);
-    }
 }

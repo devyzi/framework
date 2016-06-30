@@ -1,0 +1,39 @@
+{
+  "name": "devyzi/framework",
+  "description": "Devyzi Framework.",
+  "keywords": ["framework", "devyzi"],
+  "license": "MIT",
+  "homepage": "http://framework.devyzi.com",
+  "support": {
+    "issues": "https://github.com/devyzi/framework/issues",
+    "source": "https://github.com/devyzi/framework"
+  },
+  "authors": [
+    {
+      "name": "Marcus Vinícius Campos",
+      "email": "marcus_vinicius_campos@hotmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "replace": {
+    "illuminate/view": "self.version"
+  },
+  "require-dev": {
+    "pda/pheanstalk": "~3.0",
+    "phpunit/phpunit": "~4.1",
+    "symfony/css-selector": "2.8.*|3.0.*",
+    "symfony/dom-crawler": "2.8.*|3.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Yzi\\": "src/Yzi/"
+    }
+  },
+  "extra": {
+  },
+  "suggest": {
+  },
+  "minimum-stability": "dev"
+}

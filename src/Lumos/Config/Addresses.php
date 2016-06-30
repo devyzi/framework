@@ -5,7 +5,7 @@
  * Time: 16:43
  */
 
-namespace DEVYZI\Config;
+namespace DEVYZI\src\lumos\Config;
 
 
 class Addresses

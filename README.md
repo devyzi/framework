@@ -1,3 +1,4 @@
+[![Code Climate](https://codeclimate.com/github/devyzi/framework/badges/gpa.svg)](https://codeclimate.com/github/devyzi/framework)
 # Devyzi-Framework
 Framework PHP sem fins lucrativos.
 
